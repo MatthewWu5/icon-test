@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200px" height="200px" viewBox="0 0 200 200" version="1.1">
+  <title>编组 8备份</title>
+  <defs>
+    <filter color-interpolation-filters="auto" id="filter-1">
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+    </filter>
+  </defs>
+  <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="pc端icon" transform="translate(-1979.000000, -1846.000000)">
+      <g id="编组-8备份" transform="translate(1979.000000, 1846.000000)">
+        <circle id="椭圆形备份" fill="#666666" cx="100" cy="100" r="100"></circle>
+        <g filter="url(#filter-1)" id="编组-7">
+          <g transform="translate(44.000000, 62.000000)">
+            <rect id="矩形" x="0" y="1" width="113" height="113"></rect>
+            <g id="编组-6" transform="translate(5.000000, 0.000000)">
+              <polyline id="路径备份" stroke="#333333" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" transform="translate(52.000000, 70.909091) scale(1, -1) rotate(-315.000000) translate(-52.000000, -70.909091) " points="82.2545455 40.6545455 82.2545455 101.163636 21.7454545 101.163636"></polyline>
+              <rect id="矩形" fill="#333333" x="0" y="0" width="104" height="8.50909091" rx="4.25454545"></rect>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
